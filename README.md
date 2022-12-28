@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there, I'm Valerii
 
-<!--
-**valvdov/valvdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Web Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on Web Developer Course
+- 🌱 I’m currently learning Node.js + express.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+1. Frontend:
+- HTML
+- CSS
+- React.js
+- Webpack
+2. Backend:
+- Node.js
+- Express.js
+- MongoDB
+
+#### Links:
+
+
+[Linkedin](https://www.linkedin.com/in/valerii-vdovin-9bb76975/)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="valvdov's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=valvdov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
